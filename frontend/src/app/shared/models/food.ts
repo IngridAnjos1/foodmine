@@ -1,5 +1,5 @@
 export class Food {
-    id!: number;
+    id!: string;
     name!: string;
     price!: number;
     tags?: string[];
@@ -7,5 +7,5 @@ export class Food {
     stars: number = 0;
     imageUrl!: string;
     origins!: string[];
-    cooktime!: string;
+    cookTime: string | undefined;
 }

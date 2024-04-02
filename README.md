@@ -1,16 +1,29 @@
-# Foodmine
+# FoodMine- Angular Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+Este é um projeto de estudo para componentes Angular
 
-## Development server
+## Pré-requisitos
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Antes de começar, certifique-se de ter o seguinte instalado:
 
-## Code scaffolding
+Node.js: Download Node.js
+Angular CLI: Instale globalmente com npm install -g @angular/cli
+Este projeto foi gerado em  Angular CLI version 16.0.0
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instalação
+
+1. Clone o repositório:
+  git clone https://github.com/IngridAnjos1/foodmine.git
+
+2. Navegue até o diretório do projeto:
+  cd frontend
 
 
-## Further help
+3. Instale as dependências:
+   npm install
+   
+## Executando o Projeto
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+ng serve
+O aplicativo estará disponível em http://localhost:4200/.
+
